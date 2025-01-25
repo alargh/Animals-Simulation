@@ -81,12 +81,3 @@ The environment influences animal and plant life, with events like:
 3. **Control Simulation:** Pause, resume, or stop the simulation at any time.
 4. **Track Stats:** Monitor animal populations, energy levels, and genetic diversity.
 5. **Export Data:** Optionally export daily simulation stats to a CSV file for further analysis.
-
-## Conclusion
-Darwin World provides an engaging platform to explore evolutionary principles through simulation. By adjusting key parameters, users can create unique ecosystems and observe how animals adapt to changing environments. The interactive nature of the game encourages learning about genetics, natural selection, and ecological dynamics in a fun and visual way.
-
----
-
-**Developed by:** [Your Team Name]  
-**License:** [Insert License]  
-**GitHub:** [Insert Repository Link]
